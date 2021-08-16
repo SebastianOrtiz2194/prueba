@@ -7,6 +7,6 @@ spring:
         dialect: org.hibernate.dialect.MySQL8Dialect
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://172.30.72.118:3306/personas?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrival=true
+    url: jdbc:mysql://172.30.50.21:3306/sampledb?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrival=true
     username: root
-    password: L5dQbM6dyLOMc3ki   
+    password: IO6CaRKPgqYPKoVr   
